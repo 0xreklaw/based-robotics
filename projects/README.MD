@@ -4,8 +4,8 @@ Robotics involves various disciplines, including mechanical engineering, electro
 
 ### [Low Cost Robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 
-**Created By:** Alexander Koch
-**Total Cost:** ~$250
-**Setup Time:** ~4 hours
+- **Created By:** Alexander Koch
+- **Total Cost:** ~$250
+- **Setup Time:** ~4 hours
 
 The low-cost robot arm adapts the ACT model, making it easy to set up and use.
