@@ -17,3 +17,15 @@
 
 Table of Contents
 =================
+    * [Courses](#courses)
+    * [Reading](#reading)
+    * [Projects](#projects)
+    * [Simulators](#simulators)
+    * [Libraries](#libraries)
+    * [Tools](#tools)
+    * [Hardware](#hardware)
+    * [Software](#software)
+    * [Conferences](#conferences)
+    * [Communities](#communities)
+    * [Contributing](#contributing)
+    * [License](#license)
