@@ -1,12 +1,10 @@
-## Projects
+# Projects
 
 Robotics involves various disciplines, including mechanical engineering, electronics, software development, and theoretical knowledge. Building projects is the best way to deepen your understanding. This section is divided into projects designed to make it easy for you to get started in robotics.
 
-### Single Board Computers (SBCs)
+# Single Board Computers (SBCs)
 
-# Raspberry Pi Setup
-
-#### [Raspberry Pi](https://www.amazon.com/Raspberry-Pi-Quad-core-Cortex-A76-Processor/dp/B0CTQ3BQLS/ref=sr_1_2_sspa?crid=1UFOSCMJMYBQM&dib=eyJ2IjoiMSJ9.tbZ0EMR289jYGuOEXI8_Rh7ZFivo67gudYLC4ENELtvWaic-gE_ceTOLyl__9r0Olv89eUoqlc4KbQIboEtVYatlThzGexyqlfEDNuzae9WHedzPpH3oTADxY2DMXBsqUvtu7jMO4oSq-bYm3R5cRXDGGnPwJknUQ_IUwug1UthwMevAhQzVhERAIuFhfXG5_9WN6bsEZdTpm6enhpZRTdLbId_-8TCiTG3yz5WJZeHP2tj8ci46qGQJtlXymPp0V-MMbff5I0JQ3g1o51uaADEXO2tmrtFdSnxR3l4mF2c.7eAQpYtWXQE4PEnbtdBXpFuIADtu0KQkGfK0KNWkg-o&dib_tag=se&keywords=raspberry+pi+5&qid=1716497131&s=electronics&sprefix=raspberr%2Celectronics%2C170&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+## [Raspberry Pi](https://www.amazon.com/Raspberry-Pi-Quad-core-Cortex-A76-Processor/dp/B0CTQ3BQLS/ref=sr_1_2_sspa?crid=1UFOSCMJMYBQM&dib=eyJ2IjoiMSJ9.tbZ0EMR289jYGuOEXI8_Rh7ZFivo67gudYLC4ENELtvWaic-gE_ceTOLyl__9r0Olv89eUoqlc4KbQIboEtVYatlThzGexyqlfEDNuzae9WHedzPpH3oTADxY2DMXBsqUvtu7jMO4oSq-bYm3R5cRXDGGnPwJknUQ_IUwug1UthwMevAhQzVhERAIuFhfXG5_9WN6bsEZdTpm6enhpZRTdLbId_-8TCiTG3yz5WJZeHP2tj8ci46qGQJtlXymPp0V-MMbff5I0JQ3g1o51uaADEXO2tmrtFdSnxR3l4mF2c.7eAQpYtWXQE4PEnbtdBXpFuIADtu0KQkGfK0KNWkg-o&dib_tag=se&keywords=raspberry+pi+5&qid=1716497131&s=electronics&sprefix=raspberr%2Celectronics%2C170&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 ## Parts Not Included:
 
@@ -52,7 +50,7 @@ Robotics involves various disciplines, including mechanical engineering, electro
   sudo apt-get upgrade
   ```
 
-#### [Nvidia Jetson](https://www.amazon.com/dp/B0BZJTQ5YP?nvid=em-945-13766-0005-000&th=1)
+## [Nvidia Jetson](https://www.amazon.com/dp/B0BZJTQ5YP?nvid=em-945-13766-0005-000&th=1)
 
 **Parts Not Included:**
 
