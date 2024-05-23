@@ -17,6 +17,7 @@
 
 Table of Contents
 =================
+
     * [Courses](#courses)
     * [Reading](#reading)
     * [Projects](#projects)
