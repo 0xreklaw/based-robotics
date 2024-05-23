@@ -6,7 +6,7 @@ Robotics involves various disciplines, including mechanical engineering, electro
 
 ## [Raspberry Pi](https://www.amazon.com/Raspberry-Pi-Quad-core-Cortex-A76-Processor/dp/B0CTQ3BQLS/ref=sr_1_2_sspa?crid=1UFOSCMJMYBQM&dib=eyJ2IjoiMSJ9.tbZ0EMR289jYGuOEXI8_Rh7ZFivo67gudYLC4ENELtvWaic-gE_ceTOLyl__9r0Olv89eUoqlc4KbQIboEtVYatlThzGexyqlfEDNuzae9WHedzPpH3oTADxY2DMXBsqUvtu7jMO4oSq-bYm3R5cRXDGGnPwJknUQ_IUwug1UthwMevAhQzVhERAIuFhfXG5_9WN6bsEZdTpm6enhpZRTdLbId_-8TCiTG3yz5WJZeHP2tj8ci46qGQJtlXymPp0V-MMbff5I0JQ3g1o51uaADEXO2tmrtFdSnxR3l4mF2c.7eAQpYtWXQE4PEnbtdBXpFuIADtu0KQkGfK0KNWkg-o&dib_tag=se&keywords=raspberry+pi+5&qid=1716497131&s=electronics&sprefix=raspberr%2Celectronics%2C170&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
-## Parts Not Included:
+**Parts Not Included:**
 
 - HDMI Cable
 - Micro SD Card
@@ -57,7 +57,7 @@ Robotics involves various disciplines, including mechanical engineering, electro
 - Display Port Cable
 - Micro SD Card
 
-**Setup:**
+## Setup:
 
 ### 1. Flash Linux onto your Jetson:
 
