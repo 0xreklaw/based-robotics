@@ -4,7 +4,4 @@ Robotics involves various disciplines, including mechanical engineering, electro
 
 
 ### [Low Cost Robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-
-**Created By:** Alexander Koch
-
 The low-cost robot arm adapts the ACT model, making it easy to set up and use.
