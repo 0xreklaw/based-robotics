@@ -12,6 +12,12 @@ The low-cost robot arm adapts the ACT model, making it easy to set up and use.
 
 A data collection policy and framework that easily enables the transfer of skills from real world human interaction to robot manipulation.
 
+### VR Teleoperation
+
+Similar repo's on teleoperation via VR headsets. Current support is only for Meta and Apple headsets
+
+- [Open-TeleVision](https://github.com/OpenTeleVision/TeleVision)
+- [VisionPro Teleop](https://github.com/Improbable-AI/VisionProTeleop)
 
 # Single Board Computers (SBCs)
 
