@@ -29,7 +29,7 @@
 
 # Data Sets
 
-[Open X-Embodiment (RT-X) [https://robotics-transformer-x.github.io/]
+[Open X-Embodiment (RT-X)(https://robotics-transformer-x.github.io/)
 
 
 
