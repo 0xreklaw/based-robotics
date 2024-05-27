@@ -2,6 +2,17 @@
 
 Robotics involves various disciplines, including mechanical engineering, electronics, software development, and theoretical knowledge. Building projects is the best way to deepen your understanding. This section is divided into projects designed to make it easy for you to get started in robotics.
 
+# Low Cost Projects
+
+### [Low Cost Robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+
+The low-cost robot arm adapts the ACT model, making it easy to set up and use.
+
+### [UMI Gripper](https://umi-gripper.github.io/)
+
+A data collection policy and framework that easily enables the transfer of skills from real world human interaction to robot manipulation.
+
+
 # Single Board Computers (SBCs)
 
 ## [Raspberry Pi](https://www.amazon.com/Raspberry-Pi-Quad-core-Cortex-A76-Processor/dp/B0CTQ3BQLS/ref=sr_1_2_sspa?crid=1UFOSCMJMYBQM&dib=eyJ2IjoiMSJ9.tbZ0EMR289jYGuOEXI8_Rh7ZFivo67gudYLC4ENELtvWaic-gE_ceTOLyl__9r0Olv89eUoqlc4KbQIboEtVYatlThzGexyqlfEDNuzae9WHedzPpH3oTADxY2DMXBsqUvtu7jMO4oSq-bYm3R5cRXDGGnPwJknUQ_IUwug1UthwMevAhQzVhERAIuFhfXG5_9WN6bsEZdTpm6enhpZRTdLbId_-8TCiTG3yz5WJZeHP2tj8ci46qGQJtlXymPp0V-MMbff5I0JQ3g1o51uaADEXO2tmrtFdSnxR3l4mF2c.7eAQpYtWXQE4PEnbtdBXpFuIADtu0KQkGfK0KNWkg-o&dib_tag=se&keywords=raspberry+pi+5&qid=1716497131&s=electronics&sprefix=raspberr%2Celectronics%2C170&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
@@ -92,7 +103,3 @@ Robotics involves various disciplines, including mechanical engineering, electro
   sudo apt-get update
   sudo apt-get upgrade
   ```
-
-### [Low Cost Robot](https://github.com/AlexanderKoch-Koch/low_cost_robot)
-
-The low-cost robot arm adapts the ACT model, making it easy to set up and use.
