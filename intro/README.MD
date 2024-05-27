@@ -31,5 +31,26 @@
 
 [Open X-Embodiment (RT-X)](https://robotics-transformer-x.github.io/)
 
+# People
+
+- Sergey Levine
+- Tony Zhao
+- Michael Equi
+- Karol Hausman
+
+# Companies
+
+- Boston Dynamics
+- Tesla
+- Physical Intelligence
+- K-Scale
+- Figure AI
+- Apptronik
+- Sanctuary AI
+- Agility Robotics
+- Unitree
+- Tau Robotics
+
+
 
 
