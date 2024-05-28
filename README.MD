@@ -42,7 +42,9 @@ Table of Contents
 - [Robotic Manipulation](https://manipulation.csail.mit.edu/)
 
 ## Papers
-- 
+- [ORB-SLAM](https://arxiv.org/pdf/1502.00956)
+- [Say-Can](https://say-can.github.io/)
+- [ACT Model](https://tonyzhaozh.github.io/aloha/)
 
 # Projects
 
@@ -176,11 +178,11 @@ Similar repo's on teleoperation via VR headsets. Current support is only for Met
 # People
 
 - Sergey Levine
-- Tony Zhao
+- [Tony Zhao](https://tonyzhaozh.github.io/)
 - Michael Equi
 - Karol Hausman
 - Vikash Kumar
-- Chelsea Finn
+- [Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
 
 # Companies
 
