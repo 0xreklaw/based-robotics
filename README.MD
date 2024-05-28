@@ -15,10 +15,10 @@
   <p align="center">A curated list of awesome robotics resources, libraries, tools, and more. </p>
 </div>
 
-Table of Contents
-=================
+# Table of Contents
 
-    * [Courses](#Learning)
+* [Courses](#Learning)
+
     * [Reading](#reading)
     * [Projects](#projects)
     * [Simulators](#simulators)
