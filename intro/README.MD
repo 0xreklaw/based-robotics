@@ -23,7 +23,8 @@
 - Isaac Gym
 
 ### Simulation Datasets
-[RoboCase](https://robocasa.ai/)
+[RoboCasa](https://robocasa.ai/)
+- RoboCasa is a large-scale simulation framework for training generally capable robots to perform everyday tasks.
 
 # Teleoperation
 - VR Teleop
