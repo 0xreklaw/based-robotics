@@ -69,6 +69,18 @@ Similar repo's on teleoperation via VR headsets. Current support is only for Met
 ### [RoboCasa](https://robocasa.ai/)
 - RoboCasa is a large-scale simulation framework for training generally capable robots to perform everyday tasks.
 
+# Simulation
+
+### Physics Engines
+- MuJoCo
+- PyBullet
+
+### Simulators
+- Isaac Sim
+
+### Frameworks
+- Gymnasium
+- Isaac Gym
 
 # Single Board Computers (SBCs)
 
