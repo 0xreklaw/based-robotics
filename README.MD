@@ -161,3 +161,25 @@ Similar repo's on teleoperation via VR headsets. Current support is only for Met
   sudo apt-get upgrade
   ```
 
+# People
+
+- Sergey Levine
+- Tony Zhao
+- Michael Equi
+- Karol Hausman
+- Vikash Kumar
+- Chelsea Finn
+
+# Companies
+
+- Boston Dynamics
+- Tesla
+- Physical Intelligence
+- K-Scale
+- Figure AI
+- Apptronik
+- Sanctuary AI
+- Agility Robotics
+- Unitree
+- Tau Robotics
+
