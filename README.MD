@@ -17,20 +17,15 @@
 
 # Table of Contents
 
-* [Courses](#Learning)
-
-    * [Reading](#reading)
-    * [Projects](#projects)
-    * [Simulators](#simulators)
-    * [Libraries](#libraries)
-    * [Tools](#tools)
-    * [Hardware](#hardware)
-    * [Software](#software)
-    * [Conferences](#conferences)
-    * [Communities](#communities)
-    * [Contributing](#contributing)
-    * [License](#license)
-
+* [Learning](#Learning)
+  * [Videos](#Videos)
+  * [Videos](#Reading)
+  * [Papers](#Papers)
+* [Projects](#Projects)
+* [Data Sets](#Data Sets)
+* [Simulation](#Simulation)
+* [People](#People)
+* [Companies](#Companies)
 
 # Learning
 
