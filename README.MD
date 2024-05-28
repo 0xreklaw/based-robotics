@@ -22,7 +22,7 @@
   * [Videos](#Reading)
   * [Papers](#Papers)
 * [Projects](#Projects)
-* [Data Sets](#Data Sets)
+* [Data Sets](#DataSets)
 * [Simulation](#Simulation)
 * [People](#People)
 * [Companies](#Companies)
