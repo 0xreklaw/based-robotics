@@ -32,7 +32,7 @@ Table of Contents
     * [License](#license)
 
 
-# Courses
+# Learning
 
 ## Videos
 - [CMU Robot Dynamics](https://www.youtube.com/watch?v=LiNgr1tz49I&list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
@@ -40,6 +40,9 @@ Table of Contents
 ## Reading
 - [Underactuated Robotics](https://underactuated.csail.mit.edu/)
 - [Robotic Manipulation](https://manipulation.csail.mit.edu/)
+
+## Papers
+- 
 
 # Projects
 
