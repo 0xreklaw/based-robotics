@@ -22,6 +22,9 @@
 - Gymnasium
 - Isaac Gym
 
+### Simulation Datasets
+[RoboCase](https://robocasa.ai/)
+
 # Teleoperation
 - VR Teleop
 - Whole Body Teleop
@@ -30,6 +33,7 @@
 # Data Sets
 
 [Open X-Embodiment (RT-X)](https://robotics-transformer-x.github.io/)
+- RoboCasa is a large-scale simulation framework for training generally capable robots to perform everyday tasks.
 
 # People
 
