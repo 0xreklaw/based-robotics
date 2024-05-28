@@ -18,9 +18,6 @@
 # Table of Contents
 
 * [Learning](#Learning)
-  * [Videos](#Videos)
-  * [Videos](#Reading)
-  * [Papers](#Papers)
 * [Projects](#Projects)
 * [Data Sets](#Data-Sets)
 * [Simulation](#Simulation)
@@ -38,8 +35,6 @@
 ## Reading
 - [Underactuated Robotics](https://underactuated.csail.mit.edu/)
 - [Robotic Manipulation](https://manipulation.csail.mit.edu/)
-
-## Papers
 - [ORB-SLAM](https://arxiv.org/pdf/1502.00956)
 - [Say-Can](https://say-can.github.io/)
 - [ACT Model](https://tonyzhaozh.github.io/aloha/)
