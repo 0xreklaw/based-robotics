@@ -31,6 +31,9 @@
 
 ## Videos
 - [CMU Robot Dynamics](https://www.youtube.com/watch?v=LiNgr1tz49I&list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
+- [DeepMind Introduction to RL](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5)
+- [Deep Reinforcement Learning UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS231n Deep Learning for Computer Vision Stanford](https://cs231n.stanford.edu/)
 
 ## Reading
 - [Underactuated Robotics](https://underactuated.csail.mit.edu/)
